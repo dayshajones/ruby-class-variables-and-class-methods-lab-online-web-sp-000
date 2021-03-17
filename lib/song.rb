@@ -7,4 +7,12 @@ class Song
     @genre = genre
   end
   
+  def count
+    
+  end
+  
+  def artists
+    
+  end
+  
 end

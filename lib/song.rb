@@ -7,11 +7,11 @@ class Song
     @genre = genre
   end
   
-  def count
+  def self.count
     
   end
   
-  def artists
+  def self.artists
     
   end
   
